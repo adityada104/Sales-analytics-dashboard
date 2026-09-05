@@ -69,7 +69,7 @@ Through this project, I practiced:
 
 ## 📸 Dashboard Preview
 
-_Add your dashboard screenshot here._
+![image alt](https://github.com/adityada104/Sales-analytics-dashboard/blob/7f44a9c148991b6e9c8153ba9281471c983bed97/WhatsApp%20Image%202026-09-05%20at%208.12.57%20PM.jpeg)
 
 ## ⚠️ Note
 
